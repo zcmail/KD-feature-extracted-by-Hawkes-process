@@ -1,0 +1,1 @@
+This project modify the var-hawkes(https://github.com/trouleau/var-hawkes) which was created by William Trouleau.
